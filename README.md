@@ -1,6 +1,6 @@
 ## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?#courses) 
 #### [Course 1: Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
-#### Course 2: Ask Questions to Make Data-Driven Decisions
+#### [Course 2: Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
 #### Course 3: Prepare Data for Exploration
 #### Course 4: Process Data from Dirty to Clean
 #### Course 5: Analyze Data to Answer Questions
