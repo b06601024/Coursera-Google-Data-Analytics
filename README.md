@@ -5,5 +5,5 @@
 #### [Course 4: Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data?specialization=google-data-analytics)
 #### [Course 5: Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data?specialization=google-data-analytics)
 #### [Course 6: Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)
-#### Course 7: Data Analysis with R Programming
+#### [Course 7: Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)
 #### Course 8: Capstone Project 
