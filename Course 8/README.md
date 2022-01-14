@@ -1,0 +1,1 @@
+Actually you can skip the capstone project~ The whole course actually teach you how to interview for a job and talk more about the portfolio stuffs. But remember to complete the checklist in order to obtain your certificate.
